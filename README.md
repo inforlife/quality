@@ -71,7 +71,7 @@ git subtree push --prefix _site origin gh-pages
 
 ### Configure custom domain
 
-- Add `CNAME` file to the GitHub `gh-pages` branch containing the custom domain. [help.github.com](https://help.github.com/articles/adding-a-cname-file-to-your-repository/)
+- Add `CNAME` file to `./_site` folder containing the custom domain. 
 
 ``` 
 new-repo.acsinfo.ch
@@ -82,6 +82,9 @@ new-repo.acsinfo.ch
 ```
 new-repo.acsinfo.ch CNAME   acsinfo.github.io
 ```
+**The documentation site is now available at http://new-repo.acsinfo.ch/**
+
+
 
 **Don't forget to push up to GitHub also the `master` branch.**
 
