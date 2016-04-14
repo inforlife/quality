@@ -12,7 +12,7 @@ Follow the steps below to create a new documentation website.
 - Clone this repo into the newly created repo. 
 
 ```
-git clone git@github.com:acsinfo/doc-scaffold.git new-repo
+git clone https://github.com/acsinfo/doc-scaffold.git new-repo
 ```
 
 - Edit the git config file replacing the origin URL with your new URL.
