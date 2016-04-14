@@ -42,7 +42,7 @@ git push -u origin master
 
 ```
 cd new-repo
-$ jekyll build
+$ bundle exec jekyll build
 ```
 
 - Commit the changes.
