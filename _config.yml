@@ -17,7 +17,7 @@ baseurl: 'http://acsinfo.github.io/project-name'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: ACS Dobfar Info Software Development Team
+  name: The Software Development Team at ACS Dobfar Info
   url: https://github.com/acsinfo
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
