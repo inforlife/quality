@@ -18,6 +18,6 @@ The Software Development Team at InfoRLife has established the following quality
 
 ### Improving Technical Knowledge
 1. Each member of the Software Development Team at InfoRLife dedicates at least **between 2 and 4 hours per week** to activities of self-improvement.
-2. Each member of the Software Development Team at InfoRLife participates to a events related to software development and computer system validation for at least a total of **4 days per year**.
+2. Each member of the Software Development Team at InfoRLife participates to events related to software development and computer system validation for at least a total of **4 days per year**.
 
 The above Quality Objectives aim to consistently provide quality software to InfoRLife employees (and Third-Party Organizations) in addition to addressing their requirements. Quality objectives are used to evaluate and ensure quality and effectiveness of internal software development.
