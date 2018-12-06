@@ -2,37 +2,41 @@
 permalink: /:title
 exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md", "CONTRIBUTING.md"]
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Title
-name: PROJECT NAME
-subtitle: Project description
+name: THE QUALITY MANUAL
+subtitle: Quality Management System adopted by InfoRLife SA in developing software applications.
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: 'http://acsinfo.github.io/project-name'
+baseurl: 'http://inforlife.github.io/quality'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: The Software Development Team at ACS Dobfar Info
-  url: https://github.com/acsinfo
+  name: The Software Development Team at InfoRLife SA
+  url: https://github.com/inforlife
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: https://avatars1.githubusercontent.com/u/272616?v=3&s=75
-logoalt: ACS Dobfar Info logo
+logoalt: InfoRLife SA logo
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
-  url: index.html
+- text: Quality Policy
+  url: quality_policy.html
   internal: true
-- text: Example Page
-  url: example_page.html
+- text: Quality Management System
+  url: management_system.html
   internal: true
+- text: Quality Objectives
+  url: objectives.html
+  internal: true
+
 #- text: DOCter Repo
 #  url: https://github.com/cfpb/DOCter
 #  internal: false
