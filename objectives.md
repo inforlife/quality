@@ -7,14 +7,14 @@ The Software Development Team at InfoRLife has established the following quality
 
 ### Providing Software to InfoRLife Employees (and Third-Party Organizations)
 1. External audits (consultants, customers, and regulatory agencies) result in **zero major findings** and **less than 4 minor finding** per year.
-2. User support requests are addressed within 24 hours.
+2. User support requests are addressed **within 24 hours**.
 3. When a software defect is detected:
-  - Users are informed **within 4 work hours** providing, when possible, temporary workarounds.
+  - Users are informed **within 4 working hours** providing, when possible, temporary workarounds.
   - Defect fix begins **within 24 hours** since detection.
   - Defect fix is deployed to production **within 24 hours** since completion.
 
 ### Operating Software Applications
-1. Software applications are available **99% of all standard work hours**.
+1. Software applications are available **99% of all standard working hours**.
 
 ### Improving Technical Knowledge
 1. Each member of the Software Development Team at InfoRLife dedicates at least **between 2 and 4 hours per week** to activities of self-improvement.
