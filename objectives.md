@@ -14,7 +14,7 @@ The Software Development Team at InfoRLife has established the following quality
   - Defect fix is deployed to production **within 24 hours** since completion.
 
 ### Operating Software Applications
-1. Software applications are available **99% of all standard work hours**.
+1. Software applications are available **99% of all standard working hours**.
 
 ### Improving Technical Knowledge
 1. Each member of the Software Development Team at InfoRLife dedicates at least **between 2 and 4 hours per week** to activities of self-improvement.
