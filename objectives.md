@@ -10,8 +10,8 @@ The Software Development Team at InfoRLife has established the following quality
 2. User support requests are addressed within 24 hours.
 3. When a software defect is detected:
   - Users are informed **within 4 work hours** providing, when possible, temporary workarounds.
-  - Defect fix begins **within 24 hours** since detection.
-  - Defect fix is deployed to production **within 24 hours** since completion.
+  - Major defect fix begins **within 24 hours** since detection.
+  - Major defect fix is deployed to production **within 24 hours** since completion.
 
 ### Operating Software Applications
 1. Software applications are available **99% of all standard work hours**.
